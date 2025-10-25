@@ -1,0 +1,3 @@
+[submodule "Dependencies/RNNoise"]
+	path = Dependencies/RNNoise
+	url = https://github.com/xiph/rnnoise

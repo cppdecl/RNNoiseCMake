@@ -1,0 +1,9 @@
+/Build/
+.vscode/
+.git/
+CMakeFiles/
+.clangd/
+/build/
+/.cache/
+/out/
+/.vs/
