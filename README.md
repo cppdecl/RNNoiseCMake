@@ -22,7 +22,7 @@ add_subdirectory(RNNoiseCMake)
 ```
 Don't forget to link the library.
 ```cmake
-target_link_libraries(${PROJECT_NAME} PRIVATE RNNoiseCMake)
+target_link_libraries(${PROJECT_NAME} PRIVATE RNNoise)
 ```
 
 ### By Cloning
@@ -38,7 +38,7 @@ add_subdirectory(RNNoiseCMake)
 ```
 Don't forget to link the library.
 ```cmake
-target_link_libraries(${PROJECT_NAME} PRIVATE RNNoiseCMake)
+target_link_libraries(${PROJECT_NAME} PRIVATE RNNoise)
 ```
 
 ## 📥 Reminders
